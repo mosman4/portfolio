@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Sept 2019 - June 2023",
+            "cardTitle": "B. Computer Engineering",
+            "cardSubtitle":"Kadir Has University, Istanbul",
+            "cardDetailedText": "",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Aug 2015 - May 2019",
+            "cardTitle": "High School",
+            "cardSubtitle":"Collège du Léman, Geneva",
+            "cardDetailedText": ""
+        }
+    ]
+}

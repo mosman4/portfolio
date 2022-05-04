@@ -1,0 +1,44 @@
+{
+    "experiences": [
+        {
+            "title": "Master SwiftUl and Firestore",
+            "subtitle": "Zero2Launch",
+            "workType": "",
+            "certificate": "",
+            "workDescription": [
+                "Learned to utilize SwiftUI framework and Firestore as a database. Developed knowledge of mobile apps creation, building strong programming logic, app customization, design, and social app features. Built my own social media mobile app.,"
+            ],
+            "dateText": "2020"
+        },
+        {
+            "title": "Python and Django Full Stack Web Developer Bootcamp",
+            "subtitle": "Udemy",
+            "workType": "",
+            "certificate": "",
+            "workDescription": [
+                "The Django full-stack web development course included developing applications using HTML, CSS, JavaScript, Python, and Django Framework in detail. Developed multiple mini- projects."
+            ],
+            "dateText": "08/2021"
+        },
+        {
+            "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+            "subtitle": "Udemy",
+            "workType": "",
+            "certificate": "https://www.udemy.com/certificate/UC-3af91b6e-e704-4379-9bf6-80de3aaabc6b/",
+            "workDescription": [
+                "Learned React and Javascript from the ground up. Learned the capabilities of building custom hooks, context API, Redux and Next.js in the process. Also learned how to handle asynchronous code in components. Developed projects (uploaded on GitHub)."
+            ],
+            "dateText": "12/2021"
+        },
+        {
+            "title": "React Native - The Practical Guide [2022]",
+            "subtitle": "Udemy",
+            "workType": "",
+            "certificate": "",
+            "workDescription": [
+                "Currently working on utilizing my knowledge of React and Next.js to develop cross-platform mobile apps to build real native mobile apps for both iOS and Android."
+            ],
+            "dateText": "4/2022"
+        }
+    ]
+}

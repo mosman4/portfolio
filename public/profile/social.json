@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/mohammed-osman-18a59b164/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/mosman4"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:mo441980@hotmail.com"
+        }
+    ]
+}
